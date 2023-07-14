@@ -1,0 +1,1 @@
+This project is a website that contains recipes. It will help me get better at html by forcing me to use links and images. 
